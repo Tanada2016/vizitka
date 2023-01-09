@@ -1,0 +1,75 @@
+@font-face {
+  src: url(../vizitka/fonts/Lora/Lora-Bold.ttf);
+  font-family: "lora"
+}
+
+.otstypspiska {
+  padding: left 10px;
+  /* margin: 10px; */
+}
+
+.ffot {
+  margin-left:30px; 
+}
+    
+img {padding: 0px;
+border: 10px solid rgb(179, 177, 177, 20%)}
+     
+h1 {
+   font-family: "lora";
+    font-size: 3em;
+    color:black;
+   }
+   h2 {
+    font-family: "lora";
+     font-size: 20px;
+     color:black;
+    }
+
+#maps {color:rgb(228, 28, 161);
+  font-size: 20px;
+}
+
+.blok2 .blok3 .blok4 {
+  position: relative;
+  text-align: left;
+  line-height:normal;
+  margin-left: 20px;
+
+}
+
+.stroka {
+  display: flex;
+  justify-content:space-between;
+  height: 100px;
+  width: 550px;
+  padding-left: 30px;
+  /* align-items: center; */
+}
+.blok1 {
+  position: relative;
+  margin-left: 320px;
+   top: -165px;
+   }
+ 
+   .vverx {
+    position: relative;
+    top: -140px;
+   }
+   .fut {
+    position: relative;
+    top: -140px;
+   }
+   .telo {
+    position: relative;
+    top: -50px;
+    padding-left: 30px;
+   }
+   #part5 {
+    display: inline-flex;
+    align-items: center;
+    padding-top: 2px;
+   }
+   .ffot2 {
+    background: color 0;
+   }
